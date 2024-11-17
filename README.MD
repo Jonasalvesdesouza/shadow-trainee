@@ -80,8 +80,6 @@ By following these steps, you will have a clear development path, enabling your 
 
 ## Functionalities and Relationship Tables
 
-Below are some functionalities and their names in English, which can help with the platform’s structure and organization:
-
 1. **Workout Plan**
 
    - Workout plans can be created by Trainers, Gym Owners, or the Regular User themselves.
@@ -124,8 +122,6 @@ Below are some functionalities and their names in English, which can help with t
 
 11. **Reports & Analytics**
     - Performance reports and analytics accessible to Trainers and Nutritionists for client monitoring and tracking.
-
-These English terms help keep the platform's structure and purpose clear and understandable to a broad audience. If you need further details on any term or new ideas for functionalities, feel free to ask!
 
 # Requirements for Web Application Development
 
